@@ -2,3 +2,28 @@
     box-sizing: border-box;
 }
 
+h1{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.p1{
+    color: blueviolet;
+}
+
+.p2{
+    color: red;
+}
+
+.p3{
+    color: green;
+}
+
+body {background-color: gray;}
+
+.border1{
+    display: block
+    width:block 20px;
+    height:block 20px;
+    margin:
+}
