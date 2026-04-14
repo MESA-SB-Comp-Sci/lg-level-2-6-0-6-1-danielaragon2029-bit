@@ -22,8 +22,8 @@ h1{
 body {background-color: gray;}
 
 .border1{
-    display: block
-    width:block 20px;
-    height:block 20px;
-    margin:
+    background-color: yellow;
+    padding-bottom:20px;
+    border:20px solid navy;
+    display:inline-block;
 }
